@@ -35,5 +35,11 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, SignUp::class.java)
             startActivity(intent)
         }
+
+        val btnViewRecipes = findViewById<Button>(R.id.btnViewRecipes)
+        btnViewRecipes.setOnClickListener {
+            val intent = Intent(this, ViewRecipes::class.java)
+            startActivity(intent)
+        }
     }
 }
