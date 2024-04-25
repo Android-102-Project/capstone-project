@@ -70,6 +70,8 @@ data class RecipeDetail(
     val instructions: String?,
     @SerialName("analyzedInstructions")
     val analyzedInstructions: List<AnalyzedInstruction>?,
+    @SerialName("readyInMinutes")
+    val cookingMinute: Int?,
 )
 
 @Keep
