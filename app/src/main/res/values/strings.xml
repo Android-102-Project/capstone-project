@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KitchenStory</string>
+    <string name="instruction">empty\n</string>
 </resources>
