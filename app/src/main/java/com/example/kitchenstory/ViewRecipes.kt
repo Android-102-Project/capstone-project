@@ -32,7 +32,8 @@ class ViewRecipes : AppCompatActivity() {
 //    private lateinit var binding: ActivityMainBinding
     private val recipes = mutableListOf<Recipe>()
     private val API_KEY = BuildConfig.API_KEY
-    private val RECIPES_SEARCH_URL = "https://api.spoonacular.com/recipes/findByIngredients?ingredients=apples,+flour,+sugar&number=2&apiKey=$API_KEY"
+    private val RECIPES_SEARCH_URL =
+        "https://api.spoonacular.com/recipes/findByIngredients?ingredients=apples,+flour,+sugar&number=10&apiKey=$API_KEY"
     override fun onCreate(savedInstanceState: Bundle?) {
         Log.i(TAG, "ON CREATE!!")
         super.onCreate(savedInstanceState)
