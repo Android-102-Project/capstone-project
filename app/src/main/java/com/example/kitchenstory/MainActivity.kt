@@ -24,22 +24,22 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        val btnSignIn = findViewById<Button>(R.id.btnSignIn)
-        btnSignIn.setOnClickListener {
-            val intent = Intent(this, SignIn::class.java)
-            startActivity(intent)
-        }
-
-        val btnSignUp = findViewById<Button>(R.id.btnSignUp)
-        btnSignUp.setOnClickListener {
-            val intent = Intent(this, SignUp::class.java)
-            startActivity(intent)
-        }
-
-        val btnViewRecipes = findViewById<Button>(R.id.btnViewRecipes)
-        btnViewRecipes.setOnClickListener {
-            val intent = Intent(this, ViewRecipes::class.java)
-            startActivity(intent)
-        }
+//        val btnSignIn = findViewById<Button>(R.id.btnSignIn)
+//        btnSignIn.setOnClickListener {
+//            val intent = Intent(this, SignIn::class.java)
+//            startActivity(intent)
+//        }
+//
+//        val btnSignUp = findViewById<Button>(R.id.btnSignUp)
+//        btnSignUp.setOnClickListener {
+//            val intent = Intent(this, SignUp::class.java)
+//            startActivity(intent)
+//        }
+//
+//        val btnViewRecipes = findViewById<Button>(R.id.btnViewRecipes)
+//        btnViewRecipes.setOnClickListener {
+//            val intent = Intent(this, ViewRecipes::class.java)
+//            startActivity(intent)
+//        }
     }
 }

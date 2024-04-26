@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994847894293",
+    "project_id": "kitchenstory-2e307",
+    "storage_bucket": "kitchenstory-2e307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994847894293:android:d142d74c85a22abfc8971c",
+        "android_client_info": {
+          "package_name": "com.example.kitchenstory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDPSR_X4IwgkW2S1D--d3sUJJ834Pel2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
