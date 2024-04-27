@@ -23,7 +23,8 @@ class SignInFragment : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         binding = FragmentSignInBinding.inflate(inflater, container, false)
-        return binding.root    }
+        return binding.root
+    }
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         init(view)
@@ -48,9 +49,8 @@ class SignInFragment : Fragment() {
                         Toast.makeText(context, "Login Successful", Toast.LENGTH_SHORT).show()
                         navControl.navigate(R.id.action_signInFragment_to_homeFragment)
                     } else {
-                        Toast.makeText(context, it.exception?.message, Toast.LENGTH_SHORT).show()
+                        Toast.makeText(context, "Login Failed. Incorrect username or password.", Toast.LENGTH_SHORT).show()
                         Log.e("SignInFragment", "Login Failed"+ it.exception.toString())
-
                     }
                 }
             }

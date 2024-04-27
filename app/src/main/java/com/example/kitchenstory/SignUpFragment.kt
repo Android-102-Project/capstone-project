@@ -53,7 +53,7 @@ class SignUpFragment : Fragment() {
                             Toast.makeText(context, "Registered Successfully", Toast.LENGTH_SHORT).show()
                             navControl.navigate(R.id.action_signUpFragment_to_homeFragment)
                         } else {
-                            Toast.makeText(context, it.exception?.message, Toast.LENGTH_SHORT).show()
+                            Toast.makeText(context, "Sign Up Failed. Try again.", Toast.LENGTH_SHORT).show()
                             Log.e("SignInFragment", "Login Failed"+ it.exception.toString())
                         }
                     }
