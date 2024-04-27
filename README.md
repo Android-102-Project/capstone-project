@@ -31,23 +31,23 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 
 **Required Must-have Stories** 
 
-[ ] Users can signup and login
+[] Users can signup and login
 
-[ ] Users can insert the list of ingredients that they have
+[] Users can insert the list of ingredients that they have
 
-[ ] Users can browse the list of recipes based on the ingredients they have inserted
+[] Users can browse the list of recipes based on the ingredients they have inserted
 
-[X] Users can select a recipe and view step by step instruction to cook the meal
+[x] Users can select a recipe and view step by step instruction to cook the meal
 
-[X] Users can view the nutritional information about a homecooked meal
+[x] Users can view the nutritional information about a homecooked meal
 
 
 **Completed user stories checked-off**
-[X] Users can browse the list of recipes based on the ingredients they have inserted
+[x] Users can browse the list of recipes based on the ingredients they have inserted
 
-[X] Users can select a recipe and view step by step instruction to cook the meal
+[x] Users can select a recipe and view step by step instruction to cook the meal
 
-[X] Users can view the nutritional information about a homecooked meal
+[x] Users can view the nutritional information about a homecooked meal
  
 
 
