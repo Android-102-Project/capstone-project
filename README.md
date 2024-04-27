@@ -69,6 +69,7 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 
 **GIFs created to show build progress walkthrough**
 
+![](walkthrough.gif)
 
 
 **Optional Nice-to-have Stories**
