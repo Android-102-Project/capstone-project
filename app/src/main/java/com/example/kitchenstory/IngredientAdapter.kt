@@ -54,4 +54,5 @@ class IngredientAdapter(private val context: Context, private val ingredients: L
 
         }
     }
+
 }
