@@ -65,7 +65,7 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 
 ** Demo Day prep video**
 
-
+![](demo.mp4)
 
 
 **GIFs created to show build progress walkthrough**
