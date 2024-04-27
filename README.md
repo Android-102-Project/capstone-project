@@ -31,11 +31,11 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 
 **Required Must-have Stories** 
 
-[] Users can signup and login
+[x] Users can signup and login
 
-[] Users can insert the list of ingredients that they have
+[x] Users can insert the list of ingredients that they have
 
-[] Users can browse the list of recipes based on the ingredients they have inserted
+[x] Users can browse the list of recipes based on the ingredients they have inserted
 
 [x] Users can select a recipe and view step by step instruction to cook the meal
 
@@ -43,6 +43,10 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 
 
 **Completed user stories checked-off**
+[x] Users can signup and login
+
+[x] Users can insert the list of ingredients that they have
+
 [x] Users can browse the list of recipes based on the ingredients they have inserted
 
 [x] Users can select a recipe and view step by step instruction to cook the meal
@@ -62,7 +66,6 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 ** Demo Day prep video**
 
 
-https://github.com/Android-102-Project/capstone-project/assets/9619534/98cbad26-a7f9-4ad6-b504-4875152a0eb0
 
 
 **GIFs created to show build progress walkthrough**
