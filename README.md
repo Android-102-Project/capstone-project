@@ -42,6 +42,10 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 [x] Users can select a recipe and view step by step instruction to cook the meal
 [x] Users can view the nutritional information about a homecooked meal
 
+
+
+
+
 **Updated Project Status**
 
 **Video Demo**
