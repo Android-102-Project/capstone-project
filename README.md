@@ -66,9 +66,9 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 
 ## Demo Day prep video
 
-[![KitchenStory Demo Video](https://github.com/Android-102-Project/milestone-1/assets/73313402/8f393b9a-863c-4f85-88d0-4dd00e7b63f5)](https://youtu.be/dCVDRvNFy-s)
+PLEASE CLICK HERE TO VIEW VIDEO WITH AUDIO ===> https://youtu.be/dCVDRvNFy-s
 
-[<img src="https://github.com/Android-102-Project/milestone-1/assets/73313402/8f393b9a-863c-4f85-88d0-4dd00e7b63f5" width="50%">](https://youtu.be/dCVDRvNFy-s)
+[![KitchenStory Demo Video](https://github.com/Android-102-Project/milestone-1/assets/73313402/8f393b9a-863c-4f85-88d0-4dd00e7b63f5)](https://youtu.be/dCVDRvNFy-s)
 
 **GIFs created to show build progress walkthrough**
 
