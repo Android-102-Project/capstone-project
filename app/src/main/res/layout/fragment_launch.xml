@@ -40,15 +40,5 @@
         android:layout_marginTop="20dp" >
     </ImageView>
 
-    <ImageView
-        android:id="@+id/btnViewRecipes"
-        android:layout_width="180dp"
-        android:layout_height="wrap_content"
-        android:src="@drawable/recipesbtn"
-        app:layout_constraintTop_toBottomOf="@+id/btnStartCooking"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent">
-    </ImageView>
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

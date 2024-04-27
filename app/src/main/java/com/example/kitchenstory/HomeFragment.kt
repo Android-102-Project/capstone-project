@@ -1,5 +1,6 @@
 package com.example.kitchenstory
 
+import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import androidx.fragment.app.Fragment
@@ -41,6 +42,12 @@ class HomeFragment : Fragment(), AddedIngredientsAdapter.AddedIngredientsAdapter
         init(view)
         getDataFromFirebase()
         registerEvents()
+
+        val btnViewRecipes = view.findViewById<View>(R.id.generateRecipeBtn)
+        btnViewRecipes.setOnClickListener {
+            val intent = Intent(context, ViewRecipes::class.java)
+            startActivity(intent)
+        }
     }
 
     private fun init(view: View){
