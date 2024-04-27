@@ -54,6 +54,7 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 [x] Users can view the nutritional information about a homecooked meal
  
 
+**Updated Project Status**
 
 **Updated status of issues in Project board**
 
@@ -61,9 +62,8 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 <img width="1635" alt="Screenshot 2024-04-25 at 10 52 00 PM" src="https://github.com/Android-102-Project/capstone-project/assets/9619534/a99513c0-e2b3-45e7-8e3d-ec84775c45f9">
 
 
-**Updated Project Status**
 
-** Demo Day prep video**
+**Demo Day prep video**
 
 PLEASE CLICK HERE TO VIEW VIDEO WITH AUDIO ===> https://youtu.be/dCVDRvNFy-s
 
