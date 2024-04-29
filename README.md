@@ -67,7 +67,11 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 <img width="1635" alt="Screenshot 2024-04-25 at 10 52 00 PM" src="https://github.com/Android-102-Project/capstone-project/assets/9619534/a99513c0-e2b3-45e7-8e3d-ec84775c45f9">
 
 
+## Demo Day Slides
 
+https://docs.google.com/presentation/d/1YjYUfxo-OW_wBRtltu1Nsh0WOwUkvvFy3oYrUP8JRW8/edit?usp=sharing
+
+[CodePath Final.pdf](https://github.com/Android-102-Project/capstone-project/files/15144548/CodePath.Final.pdf)
 
 ## Demo Day prep video
 
