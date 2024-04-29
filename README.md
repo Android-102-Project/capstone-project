@@ -57,13 +57,12 @@ Allows users to generate the list of recipes for homecooked meals based on the a
 ## Updated Project Board with finished issues
 
 <img width="1632" alt="Screenshot 2024-04-28 at 8 48 31 PM" src="https://github.com/Android-102-Project/capstone-project/assets/9619534/17df3cec-4f40-40c9-9921-cd9dc158a843">
-
+<img width="1627" alt="Screenshot 2024-04-28 at 9 55 24 PM" src="https://github.com/Android-102-Project/capstone-project/assets/9619534/62a7f4bb-b3ac-48b3-aa86-187dbfc5e49e">
 
 ## Updated Project Status
 
 **Updated status of issues in Project board**
 
-<img width="1629" alt="Screenshot 2024-04-25 at 10 37 55 PM" src="https://github.com/Android-102-Project/capstone-project/assets/9619534/a80bfc16-8c80-4deb-add6-073c6f838f54">
 <img width="1635" alt="Screenshot 2024-04-25 at 10 52 00 PM" src="https://github.com/Android-102-Project/capstone-project/assets/9619534/a99513c0-e2b3-45e7-8e3d-ec84775c45f9">
 
 
