@@ -84,6 +84,11 @@ https://github.com/Android-102-Project/capstone-project/assets/9619534/84e98cef-
 ![](walkthrough.gif)
 
 
+## Milestone 3 Demo video
+
+https://youtu.be/dCVDRvNFy-s
+
+
 **Optional Nice-to-have Stories**
 
 * Users can see a randomly generated recipe
